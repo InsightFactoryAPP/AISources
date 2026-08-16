@@ -62,6 +62,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [Writesonic](https://writesonic.com/)            | Function: AI copywriting and text generation for social media, blogs, and ads. Advantage: Offers both long-form and short-form content generation.                                |
 | [Descript](https://www.descript.com/)            | Function: AI-powered video and audio editing tool. Advantage: Simplifies editing workflows with transcription, text-based video editing, and overdub capabilities.               |
 | [Pictory](https://pictory.ai/)                   | Function: Converts text-based content into engaging videos. Advantage: Automates video creation, perfect for content marketers and educators.                                     |
+| [videos.social](https://videos.social/?utm_source=aisources&utm_medium=directory&utm_campaign=listing-wave-d) | Function: Turns blogs, PDFs, and prompts into editable faceless videos. Advantage: 1 free render to start; packs from $10; 1 credit = 1 render. |
 | [Runway ML](https://runwayml.com/)               | Function: AI for creative projects, including video editing, image generation, and background removal. Advantage: Accessible for artists and creators with minimal tech skills.   |
 | [CreatorSkills](https://creatorskills.co)        | Function: Marketplace of downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Advantage: Works with Claude and ChatGPT to give creators ready-made, expert-crafted prompts. |
 
