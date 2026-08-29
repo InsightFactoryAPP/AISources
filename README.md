@@ -36,6 +36,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [CodeWhisperer](https://aws.amazon.com/codewhisperer/) | Function: AI-powered code suggestion tool by AWS. Advantage: Ideal for developers working on cloud-native applications with seamless AWS service integration.                                                          |
 | [PolyCoder](https://github.com/VHellendoorn/Code-LMs) | Function: Open-source AI model trained on diverse programming languages. Advantage: Provides transparency and flexibility for developers wanting alternatives to proprietary models.                                   |
 | [DeepCode](https://www.deepcode.ai/)                  | Function: AI code review tool that finds bugs and optimizes performance. Advantage: Focuses on improving code quality and collaboration efficiency in teams.                                                           |
+| [Agent QA](https://github.com/vostride/agent-qa)      | Function: Authors and runs natural-language web and mobile regression tests. Advantage: Its CLI, MCP server, persistent test memory, and reviewable evidence help teams maintain application flows as interfaces change. Source-available under FSL-1.1-ALv2. |
 
 
 #### 2 [↑](#-content) Cybersecurity  
@@ -112,5 +113,4 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [Zapier AI](https://zapier.com/)               | Function: Workflow automation with AI to connect apps and streamline processes. Advantage: Saves time by automating repetitive tasks across various platforms.       |
 | [Motion](https://www.usemotion.com/)           | Function: AI-powered scheduling and task management tool. Advantage: Automatically prioritizes tasks and meetings based on your goals and deadlines.                |
 | [Superhuman](https://superhuman.com/)          | Function: AI-enhanced email client for faster communication. Advantage: Focused on productivity and email organization.                                             |
-
 
