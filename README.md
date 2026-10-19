@@ -76,6 +76,7 @@ Welcome to the **AISources**! This project serves as a central hub for a wide ra
 | [BigML](https://bigml.com/)                    | Function: Cloud-based machine learning for business applications. Advantage: Provides easy-to-use tools for building and deploying predictive models.                        |
 | [Tableau AI](https://www.tableau.com/)         | Function: Enhances Tableau’s visualization platform with AI for data analysis and prediction. Advantage: Seamlessly integrates with existing Tableau workflows.              |
 | [MonkeyLearn](https://monkeylearn.com/)        | Function: Text analysis and data visualization using AI. Advantage: Ideal for sentiment analysis, keyword extraction, and custom data classification.                        |
+| [Pulse](https://pulsecorp.co)                  | Function: AI-moderated market research platform where an AI moderator runs customer interviews. Advantage: Interviews run by voice, video, text chat, phone call and WhatsApp without a human moderator. |
 
 
 #### 5 [↑](#-content) Design  
